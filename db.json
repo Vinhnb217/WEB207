@@ -1,0 +1,126 @@
+{
+  "products": [
+    {
+      "name": "air max 97 Phantom",
+      "image": "https://www.solelook.com/wp-content/uploads/2018/11/Ladies-New-Nike-Air-Max-97-Phantom-On-Feet.jpg",
+      "price": "667.250",
+      "id": 1,
+      "desc": "Nike Epic Phantom React sở hữu bộ đệm công nghệ React mới nhất. Công nghệ này được biết đến với khả năng hấp thu và chuyển hóa chấn động mỗi khi tiếp đất mang lại cảm giác êm và thoải mái hơn.\n\nGiày cũng dùng thân dệt Flyknit với độ thoáng tối đa. Điểm nổi bật nhất trên mẫu giày này là nó hoàn toàn không có dây. Nhờ đó, người dùng có thể xỏ giày dễ dàng và nhanh chóng, thích hợp cho tập gym, đi bộ hay chạy nhẹ nhàng.",
+      "category_id": "1"
+    },
+    {
+      "name": "Gucci Rhyton Yankees Vintage",
+      "image": "https://cf.shopee.vn/file/0aa4c4a112c4d07c88ca73310d9d645a",
+      "price": "499.000",
+      "id": 2,
+      "category_id": "5",
+      "desc": "Sau lần lặp lại Los Angeles Angels , Gucci tiếp tục cho ra mắt  đôi giày thể thao Rhyton với họa tiết MLB quá khổ . Lần này, đôi giày bố mang tính biểu tượng tập trung xung quanh một đội Bóng chày thuộc Liên đoàn bóng chày khác - New York Yankees  trong biểu tượng mang tính biểu tượng của nó.\n\nLấy cảm hứng từ chiếc mũ bóng chày của Giám đốc Sáng tạo Alessandro Michele , phù hiệu New York Yankees màu đen, phóng to xuất hiện ở phần giữa của mũ lưỡi trai bằng da trắng và đế cong"
+    },
+    {
+      "name": " Nike Air Force 1 Shadow ",
+      "image": "https://file.hstatic.net/1000390394/file/air_force_shadow_rep_tabuma__1__4c972e8fe75840a9aa00b097d1dede18_grande.jpg",
+      "category_id": "1",
+      "price": "387.500",
+      "desc": "Dòng Air Force 1 Shadow của Nike chinh phục tín đồ thời trang toàn cầu nhờ kiểu dáng mạnh mẽ, tôn dáng. Phiên bản mới phối loạt gam pastel (vàng, hồng, tím, xanh, trắng) được nhiều cô gái đánh giá ngọt ngào, thích hợp với trang phục nữ tính, trẻ trung.",
+      "id": 3
+    },
+    {
+      "name": "Gucci Rhyton Strawberry",
+      "image": "https://media.gucci.com/style/DarkGray_Center_0_0_490x490/1553510706/576963_DRW00_9522_006_100_0000_Light-Womens-Rhyton-sneaker-with-Gucci-Strawberry.jpg",
+      "category_id": "5",
+      "price": "499.000",
+      "desc": "Từ một đế chế sắp lụi tàn, giờ đây Gucci đã hồi sinh mạnh mẽ hơn bao giờ hết nhờ sức sáng tạo của NTK Alessandro Michele. Từ kiểu trang phục thêu thủ công, những chiếc túi Dionysus và Sylvie, đặc biệt là các kiểu giày của Gucci đều đang là khát khao đối với giới mộ điệu toàn cầu.",
+      "id": 4
+    },
+    {
+      "name": "Vans Era Podium Racer Red",
+      "image": "https://cf.shopee.vn/file/2d190c6f91ace750fd2db39f80a4a78b",
+      "category_id": "4",
+      "price": "322.500",
+      "desc": "00",
+      "id": 5
+    },
+    {
+      "name": "Air Fear of God 180 Light ",
+      "image": "https://cf.shopee.vn/file/652b9d94ab9b6ffb203ed02b23bd9cb2",
+      "category_id": "1",
+      "price": "722.500",
+      "desc": "Nike Air Fear of God 180 “Light Bone” – phiên bản cổ thấp đáng giá đến từ FOG và Nike. Sau những hình ảnh teaser hồi đầu năm nay, Nike đã chính thức giới thiệu đến các fan của mình những hình ảnh chính thức của sản phẩm collab đình đám nhất hiện nay của hãng: Nike Air Fear of God 180 “Light Bone”. Điểm nhấn ấn tượng nhất chính là thiết kế cổ lửng tiện dụng hơn so với mẫu tiền nhiệm.",
+      "id": 6
+    },
+    {
+      "name": "Stan Smith All White",
+      "image": "https://cf.shopee.vn/file/ee7220f1d398ddf83f940f3a29ae8aad",
+      "category_id": "1",
+      "price": "552.500",
+      "desc": "Cả Việt Nam đi Stan Smith, đây là 3 đôi sneakers trắng khác để bạn đổi gió cho đỡ \"đụng hàng\".  Trong văn hóa phương tây, đặc biệt là thời trang - màu trắng được coi là biểu tượng của sự  trung tính hoàn hảo, thuần khiết và đầy năng lượng. Nếu 'outfit' của bạn là một dàn nhạc, đôi giày trắng giống như nhạc trưởng. Bằng sự hài hòa trong màu sắc, sneakers trắng có thể kết hợp với gần như mọi loại trang phục: Trang nhã, lịch sự cho tới nghịch ngợm và phá cách.",
+      "id": 7
+    },
+    {
+      "name": "D.ior x Shawn Stussy Miami",
+      "image": "https://cf.shopee.vn/file/1b1110013d6a2b8d2d1cf53331b1ef72",
+      "category_id": "1",
+      "price": "1.100.750",
+      "desc": "Dior bắt tay cùng Shawn Stussy “đánh gục cả thế giới” với BST Dior Men Fall 2020. Hiện nay, giám đốc nghệ thuật Kim Jones được xem là bậc thầy trong việc thổi bùng và tạo ra các xu hướng. Thành công tột bậc sau màn kết hợp giữa Louis Vuitton x Supreme chấn động địa cầu vào mùa Chớm Thu 2017 cho Louis Vuitton đã đưa anh đến vị trí cầm lái con thuyền sáng tạo cho dòng thời trang nam của Dior vào tháng 3/2018. Vào buổi ra mắt BST đầu tiên tại ngôi nhà mới diễn ra ở Tokyo năm trước, Jones hợp tác cùng nghệ sĩ Nhật Bản Hajime Sorayama cho ra đời các thiết kế và phụ kiện đậm chất vị lai, mà không thể không nhắc đến chiếc Saddle bag bằng kim loại sáng bóng mê hoặc giới mộ điệu. BST không chỉ là lần trao duyên giữ Đông và Tây, mà còn là cách nghệ thuật thủ công nhà nghề hòa quyện hoàn hảo với công nghệ tương lai. Show diễn đã đánh dấu thành tựu to lớn mà Kim Jones đạt được tại nhà mốt xa xỉ Pháp",
+      "id": 8
+    },
+    {
+      "name": "Nguyễn Bá Vinh",
+      "image": "https://www.imgonline.com.ua/examples/rainbow-background-1-big.jpg",
+      "category_id": "7",
+      "price": "1234444",
+      "desc": "111",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "name": "Nike",
+      "id": 1
+    },
+    {
+      "name": "Adidas",
+      "id": 2
+    },
+    {
+      "name": "Puma",
+      "id": 3
+    },
+    {
+      "name": "Vans",
+      "id": 4
+    },
+    {
+      "name": "Gucci",
+      "id": 5
+    },
+    {
+      "name": "Converse",
+      "id": 6
+    },
+    {
+      "name": "Giày 1",
+      "id": 7
+    }
+  ],
+  "Post": [
+    {
+      "id": 1,
+      "title": "Gucci Pays Homage to the New York Yankees",
+      "content": "Sau lần lặp lại Los Angeles Angels, Gucci tiếp tục cho ra mắt đôi giày thể thao Rhyton với họa tiết MLB quá khổ,đôi giày bố mang tính biểu tư",
+      "image": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F02%2Fgucci-rhyton-sneaker-white-ny-yankees-release-001.jpg?q=90&w=1400&cbr=1&fit=max"
+    },
+    {
+      "id": 2,
+      "title": "CONTINENTAL 80 SHOES",
+      "content": "Say sưa với nỗi nhớ. Đôi giày adidas Continental 80 này ghi lại tất cả những cảm xúc hoài cổ của những đôi giày da cổ điển thập niên 80. Chiếc cupsole cao su xẻ tà và sọc hai tông màu tạo nên vẻ ngoài. Áo lót của Pháp hoàn thành cảm giác phản cảm.",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/8df5ab4346d7475ebb08a91500a047d3_9366/Continental_80_Shoes_White_G27706_01_standard.jpg"
+    },
+    {
+      "title": "ADILETTE COMFORT SLIDES",
+      "image": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/95c7238374944c39855da81700f49002_9366/Adilette_Comfort_Slides_Black_CG3425_01_standard.jpg",
+      "content": "\nHãy trượt vào những chiếc trượt dành cho nam này để tạo sự thoải mái dễ mặc. Chân đế có đường viền có tính năng Cloudfoam Plus cho cảm giác đệm siêu mềm. Mặt trên kiểu băng quấn có logo adidas Badge of Sport thể hiện tình yêu thương hiệu của bạn.",
+      "id": 9
+    }
+  ]
+}
